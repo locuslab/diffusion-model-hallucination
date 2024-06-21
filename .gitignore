@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+wandb/
+chkpts/
+*.npz
+*.npy
+*.pt 
+*.pth
 
 # C extensions
 *.so
